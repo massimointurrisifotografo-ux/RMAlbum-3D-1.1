@@ -1,0 +1,868 @@
+{
+ "families": [
+  {
+   "id": "corteccia",
+   "name": "CORTECCIA",
+   "textureUrl": "/api/assets/catalog/corteccia_texture.jpg",
+   "source": "materiali album.pdf"
+  },
+  {
+   "id": "tela",
+   "name": "TELA",
+   "textureUrl": "/api/assets/catalog/tela_texture.jpg",
+   "source": "materiali album.pdf"
+  },
+  {
+   "id": "eco-liscio",
+   "name": "ECO LISCIO",
+   "textureUrl": "/api/assets/catalog/eco-liscio_texture.jpg",
+   "source": "materiali album.pdf"
+  },
+  {
+   "id": "vellutino",
+   "name": "VELLUTINO",
+   "textureUrl": "/api/assets/catalog/vellutino_texture.jpg",
+   "source": "materiali album.pdf"
+  }
+ ],
+ "variants": [
+  {
+   "code": "C12",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C12",
+   "colorHex": "#ccbdad",
+   "swatchUrl": "/api/assets/catalog/C12.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C01",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C01",
+   "colorHex": "#b0b639",
+   "swatchUrl": "/api/assets/catalog/C01.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C02",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C02",
+   "colorHex": "#f2c332",
+   "swatchUrl": "/api/assets/catalog/C02.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C03",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C03",
+   "colorHex": "#dd6332",
+   "swatchUrl": "/api/assets/catalog/C03.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C04",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C04",
+   "colorHex": "#eea192",
+   "swatchUrl": "/api/assets/catalog/C04.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C05",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C05",
+   "colorHex": "#c53a3a",
+   "swatchUrl": "/api/assets/catalog/C05.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C06",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C06",
+   "colorHex": "#ce3f62",
+   "swatchUrl": "/api/assets/catalog/C06.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C07",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C07",
+   "colorHex": "#4d3188",
+   "swatchUrl": "/api/assets/catalog/C07.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C08",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C08",
+   "colorHex": "#1d3778",
+   "swatchUrl": "/api/assets/catalog/C08.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C09",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C09",
+   "colorHex": "#1995b6",
+   "swatchUrl": "/api/assets/catalog/C09.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C10",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C10",
+   "colorHex": "#79a7d1",
+   "swatchUrl": "/api/assets/catalog/C10.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C11",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C11",
+   "colorHex": "#bec0b2",
+   "swatchUrl": "/api/assets/catalog/C11.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C13",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C13",
+   "colorHex": "#b67946",
+   "swatchUrl": "/api/assets/catalog/C13.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C14",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C14",
+   "colorHex": "#3f2a21",
+   "swatchUrl": "/api/assets/catalog/C14.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C15",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C15",
+   "colorHex": "#605b4f",
+   "swatchUrl": "/api/assets/catalog/C15.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C16",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C16",
+   "colorHex": "#282522",
+   "swatchUrl": "/api/assets/catalog/C16.jpg",
+   "outOfProduction": false,
+   "pdfPage": 1
+  },
+  {
+   "code": "C18",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C18",
+   "colorHex": "#eeeeee",
+   "swatchUrl": "/api/assets/catalog/C18.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C19",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C19",
+   "colorHex": "#a99482",
+   "swatchUrl": "/api/assets/catalog/C19.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C20",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C20",
+   "colorHex": "#e3c69c",
+   "swatchUrl": "/api/assets/catalog/C20.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C21",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C21",
+   "colorHex": "#281c1b",
+   "swatchUrl": "/api/assets/catalog/C21.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C22",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C22",
+   "colorHex": "#3d504e",
+   "swatchUrl": "/api/assets/catalog/C22.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C23",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C23",
+   "colorHex": "#4b3b32",
+   "swatchUrl": "/api/assets/catalog/C23.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C24",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C24",
+   "colorHex": "#c38e31",
+   "swatchUrl": "/api/assets/catalog/C24.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C25",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C25",
+   "colorHex": "#a04b91",
+   "swatchUrl": "/api/assets/catalog/C25.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C26",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C26",
+   "colorHex": "#1d263e",
+   "swatchUrl": "/api/assets/catalog/C26.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C27",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C27",
+   "colorHex": "#bababa",
+   "swatchUrl": "/api/assets/catalog/C27.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C28",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C28",
+   "colorHex": "#642b1e",
+   "swatchUrl": "/api/assets/catalog/C28.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C29",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C29",
+   "colorHex": "#602122",
+   "swatchUrl": "/api/assets/catalog/C29.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "C30",
+   "familyId": "corteccia",
+   "name": "CORTECCIA C30",
+   "colorHex": "#55549d",
+   "swatchUrl": "/api/assets/catalog/C30.jpg",
+   "outOfProduction": false,
+   "pdfPage": 2
+  },
+  {
+   "code": "T122",
+   "familyId": "tela",
+   "name": "TELA T122",
+   "colorHex": "#77303b",
+   "swatchUrl": "/api/assets/catalog/T122.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T110",
+   "familyId": "tela",
+   "name": "TELA T110",
+   "colorHex": "#aaa297",
+   "swatchUrl": "/api/assets/catalog/T110.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T111",
+   "familyId": "tela",
+   "name": "TELA T111",
+   "colorHex": "#a09081",
+   "swatchUrl": "/api/assets/catalog/T111.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T112",
+   "familyId": "tela",
+   "name": "TELA T112",
+   "colorHex": "#8e6f50",
+   "swatchUrl": "/api/assets/catalog/T112.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T113",
+   "familyId": "tela",
+   "name": "TELA T113",
+   "colorHex": "#674d42",
+   "swatchUrl": "/api/assets/catalog/T113.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T114",
+   "familyId": "tela",
+   "name": "TELA T114",
+   "colorHex": null,
+   "swatchUrl": "/api/assets/catalog/T114.jpg",
+   "outOfProduction": true,
+   "pdfPage": 4
+  },
+  {
+   "code": "T115",
+   "familyId": "tela",
+   "name": "TELA T115",
+   "colorHex": "#be9567",
+   "swatchUrl": "/api/assets/catalog/T115.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T116",
+   "familyId": "tela",
+   "name": "TELA T116",
+   "colorHex": "#c2974b",
+   "swatchUrl": "/api/assets/catalog/T116.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T117",
+   "familyId": "tela",
+   "name": "TELA T117",
+   "colorHex": "#525855",
+   "swatchUrl": "/api/assets/catalog/T117.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T118",
+   "familyId": "tela",
+   "name": "TELA T118",
+   "colorHex": "#324544",
+   "swatchUrl": "/api/assets/catalog/T118.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T119",
+   "familyId": "tela",
+   "name": "TELA T119",
+   "colorHex": "#627f8b",
+   "swatchUrl": "/api/assets/catalog/T119.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T120",
+   "familyId": "tela",
+   "name": "TELA T120",
+   "colorHex": "#2a5173",
+   "swatchUrl": "/api/assets/catalog/T120.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T121",
+   "familyId": "tela",
+   "name": "TELA T121",
+   "colorHex": "#dc5758",
+   "swatchUrl": "/api/assets/catalog/T121.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T123",
+   "familyId": "tela",
+   "name": "TELA T123",
+   "colorHex": "#8b8782",
+   "swatchUrl": "/api/assets/catalog/T123.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "T124",
+   "familyId": "tela",
+   "name": "TELA T124",
+   "colorHex": "#414347",
+   "swatchUrl": "/api/assets/catalog/T124.jpg",
+   "outOfProduction": false,
+   "pdfPage": 4
+  },
+  {
+   "code": "EL400",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL400",
+   "colorHex": "#f5f5f5",
+   "swatchUrl": "/api/assets/catalog/EL400.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL402",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL402",
+   "colorHex": "#f2ece0",
+   "swatchUrl": "/api/assets/catalog/EL402.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL403",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL403",
+   "colorHex": "#378440",
+   "swatchUrl": "/api/assets/catalog/EL403.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL404",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL404",
+   "colorHex": "#064532",
+   "swatchUrl": "/api/assets/catalog/EL404.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL405",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL405",
+   "colorHex": "#1e3934",
+   "swatchUrl": "/api/assets/catalog/EL405.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL406",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL406",
+   "colorHex": "#edb611",
+   "swatchUrl": "/api/assets/catalog/EL406.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL407",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL407",
+   "colorHex": "#aa692a",
+   "swatchUrl": "/api/assets/catalog/EL407.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL408",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL408",
+   "colorHex": "#cb4927",
+   "swatchUrl": "/api/assets/catalog/EL408.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL409",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL409",
+   "colorHex": "#a12524",
+   "swatchUrl": "/api/assets/catalog/EL409.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL410",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL410",
+   "colorHex": "#b53b54",
+   "swatchUrl": "/api/assets/catalog/EL410.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL411",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL411",
+   "colorHex": "#9372a7",
+   "swatchUrl": "/api/assets/catalog/EL411.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL412",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL412",
+   "colorHex": "#48335f",
+   "swatchUrl": "/api/assets/catalog/EL412.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL413",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL413",
+   "colorHex": "#11738d",
+   "swatchUrl": "/api/assets/catalog/EL413.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL414",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL414",
+   "colorHex": "#115492",
+   "swatchUrl": "/api/assets/catalog/EL414.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL415",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL415",
+   "colorHex": "#131d3c",
+   "swatchUrl": "/api/assets/catalog/EL415.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL416",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL416",
+   "colorHex": "#63524e",
+   "swatchUrl": "/api/assets/catalog/EL416.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL417",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL417",
+   "colorHex": "#603e34",
+   "swatchUrl": "/api/assets/catalog/EL417.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL418",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL418",
+   "colorHex": "#2a2526",
+   "swatchUrl": "/api/assets/catalog/EL418.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL419",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL419",
+   "colorHex": "#171516",
+   "swatchUrl": "/api/assets/catalog/EL419.jpg",
+   "outOfProduction": false,
+   "pdfPage": 13
+  },
+  {
+   "code": "EL420",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL420",
+   "colorHex": "#4e1a20",
+   "swatchUrl": "/api/assets/catalog/EL420.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL423",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL423",
+   "colorHex": "#e9dc37",
+   "swatchUrl": "/api/assets/catalog/EL423.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL424",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL424",
+   "colorHex": "#ccd666",
+   "swatchUrl": "/api/assets/catalog/EL424.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL425",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL425",
+   "colorHex": "#d3d6dd",
+   "swatchUrl": "/api/assets/catalog/EL425.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL426",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL426",
+   "colorHex": "#b2a091",
+   "swatchUrl": "/api/assets/catalog/EL426.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL427",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL427",
+   "colorHex": "#dfd3c3",
+   "swatchUrl": "/api/assets/catalog/EL427.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL428",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL428",
+   "colorHex": "#6a2318",
+   "swatchUrl": "/api/assets/catalog/EL428.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL429",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL429",
+   "colorHex": "#465566",
+   "swatchUrl": "/api/assets/catalog/EL429.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL430",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL430",
+   "colorHex": "#292d39",
+   "swatchUrl": "/api/assets/catalog/EL430.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "EL431",
+   "familyId": "eco-liscio",
+   "name": "ECO LISCIO EL431",
+   "colorHex": "#133b93",
+   "swatchUrl": "/api/assets/catalog/EL431.jpg",
+   "outOfProduction": false,
+   "pdfPage": 14
+  },
+  {
+   "code": "V1550",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1550",
+   "colorHex": "#dcd8ce",
+   "swatchUrl": "/api/assets/catalog/V1550.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1551",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1551",
+   "colorHex": "#dca538",
+   "swatchUrl": "/api/assets/catalog/V1551.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1552",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1552",
+   "colorHex": "#c9b8a0",
+   "swatchUrl": "/api/assets/catalog/V1552.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1553",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1553",
+   "colorHex": "#af9573",
+   "swatchUrl": "/api/assets/catalog/V1553.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1554",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1554",
+   "colorHex": "#938b83",
+   "swatchUrl": "/api/assets/catalog/V1554.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1555",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1555",
+   "colorHex": "#554d4a",
+   "swatchUrl": "/api/assets/catalog/V1555.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1556",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1556",
+   "colorHex": "#9e6c71",
+   "swatchUrl": "/api/assets/catalog/V1556.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1557",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1557",
+   "colorHex": "#c6a3aa",
+   "swatchUrl": "/api/assets/catalog/V1557.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1558",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1558",
+   "colorHex": "#6c606d",
+   "swatchUrl": "/api/assets/catalog/V1558.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1559",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1559",
+   "colorHex": "#782f41",
+   "swatchUrl": "/api/assets/catalog/V1559.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1560",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1560",
+   "colorHex": "#991f2c",
+   "swatchUrl": "/api/assets/catalog/V1560.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1561",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1561",
+   "colorHex": "#7a8144",
+   "swatchUrl": "/api/assets/catalog/V1561.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1562",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1562",
+   "colorHex": "#224541",
+   "swatchUrl": "/api/assets/catalog/V1562.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1563",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1563",
+   "colorHex": "#3a7795",
+   "swatchUrl": "/api/assets/catalog/V1563.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1564",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1564",
+   "colorHex": "#246771",
+   "swatchUrl": "/api/assets/catalog/V1564.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1565",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1565",
+   "colorHex": "#3f545f",
+   "swatchUrl": "/api/assets/catalog/V1565.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1566",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1566",
+   "colorHex": "#253e5e",
+   "swatchUrl": "/api/assets/catalog/V1566.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1567",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1567",
+   "colorHex": "#a8a9a0",
+   "swatchUrl": "/api/assets/catalog/V1567.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1568",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1568",
+   "colorHex": "#6b6b68",
+   "swatchUrl": "/api/assets/catalog/V1568.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  },
+  {
+   "code": "V1569",
+   "familyId": "vellutino",
+   "name": "VELLUTINO V1569",
+   "colorHex": "#101010",
+   "swatchUrl": "/api/assets/catalog/V1569.jpg",
+   "outOfProduction": false,
+   "pdfPage": 30
+  }
+ ],
+ "report": []
+}
